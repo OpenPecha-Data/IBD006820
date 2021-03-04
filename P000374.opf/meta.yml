@@ -1,15 +1,16 @@
-id: opecha:P000374
+id: P000374
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W28261
   title: སུམ་རྟགས་ཀྱི་འགྲེལ་པ་ཨུཏྤ་ལ་ཡི་རྣ་རྒྱན།
-  volume:
+  author: ''
+  volumes:
     28fe6995a1f04150935c5161fe1ce7c2:
       image_group_id: I1KG12874
       title: Volume 1 of sum rtags kyi 'grel pa ut+pa la yi rna rgyan/
       volume_number: 1
       total_pages: 156
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སུམ་རྟགས་ཀྱི་འགྲེལ་པ་ཨུཏྤ་ལ་ཡི་རྣ་རྒྱན།
   author: ''
